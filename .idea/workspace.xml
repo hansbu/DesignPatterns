@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="275cfc0a-90ef-4c10-855b-ed2c1b327fc1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XRIGvDto1uZzk7Dfq7LWQyStjB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/CreationalPatterns/Builder" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/CreationalPatterns/Builder" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BuilderDemo">
+    <configuration name="BuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.BuilderPattern.BuilderDemo" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalPatterns.BuilderPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.AbstractFactory.Main" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalPatterns.AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.FactoryMethod.Main" />
+      <module name="DesignPatterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainAbstractFactory" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.AbstractFactory.MainAbstractFactory" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalPatterns.AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainPrototype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Prototype.MainPrototype" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalPatterns.Prototype.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainSingleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalPatterns.Singleton.MainSingleton" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalPatterns.Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.MainAbstractFactory" />
+      <item itemvalue="Application.MainSingleton" />
+      <item itemvalue="Application.MainPrototype" />
+      <item itemvalue="Application.BuilderDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BuilderDemo" />
+        <item itemvalue="Application.MainPrototype" />
+        <item itemvalue="Application.MainSingleton" />
+        <item itemvalue="Application.MainAbstractFactory" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="275cfc0a-90ef-4c10-855b-ed2c1b327fc1" name="Default Changelist" comment="" />
+      <created>1581002387222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581002387222</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2222" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581003188657">
+      <screen x="1440" y="23" width="1876" height="1057" />
+    </state>
+    <state x="2222" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.23.1876.1057@1440.23.1876.1057" timestamp="1581003188657" />
+    <state width="1286" height="290" key="GridCell.Tab.0.bottom" timestamp="1581004337824">
+      <screen x="1440" y="23" width="1876" height="1057" />
+    </state>
+    <state width="1286" height="290" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1876.1057@1440.23.1876.1057" timestamp="1581004337824" />
+    <state width="1286" height="290" key="GridCell.Tab.0.center" timestamp="1581004337823">
+      <screen x="1440" y="23" width="1876" height="1057" />
+    </state>
+    <state width="1286" height="290" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1876.1057@1440.23.1876.1057" timestamp="1581004337823" />
+    <state width="1286" height="290" key="GridCell.Tab.0.left" timestamp="1581004337823">
+      <screen x="1440" y="23" width="1876" height="1057" />
+    </state>
+    <state width="1286" height="290" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1876.1057@1440.23.1876.1057" timestamp="1581004337823" />
+    <state width="1286" height="290" key="GridCell.Tab.0.right" timestamp="1581004337823">
+      <screen x="1440" y="23" width="1876" height="1057" />
+    </state>
+    <state width="1286" height="290" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1876.1057@1440.23.1876.1057" timestamp="1581004337823" />
+    <state x="414" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1581383901504">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="414" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1871.1057@0.23.1440.877" timestamp="1581383901504" />
+  </component>
+</project>
