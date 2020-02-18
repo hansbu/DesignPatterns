@@ -39,7 +39,7 @@ public class ObjectPoolDemo
     */
 
 
-    pool = new ObjectPool<ExportingProcess>(4, 10, 5)
+    pool = new ObjectPool<ExportingProcess>(2, 6, 5)
     {
     protected ExportingProcess createObject()
     {
@@ -72,6 +72,11 @@ public class ObjectPoolDemo
         executor.execute(new ExportingTask(pool, 6));
         executor.execute(new ExportingTask(pool, 7));
         executor.execute(new ExportingTask(pool, 8));
+
+        executor.execute(new ExportingTask(pool, 9));
+        executor.execute(new ExportingTask(pool, 10));
+        executor.execute(new ExportingTask(pool, 11));
+        executor.execute(new ExportingTask(pool, 12));
 
         executor.shutdown();
         try {

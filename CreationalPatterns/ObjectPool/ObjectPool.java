@@ -92,7 +92,7 @@ public abstract class ObjectPool<T>
                 int size = pool.size();
                
                 if (size < minObjects) {
-                    int sizeToBeAdded = minObjects + size;
+                    int sizeToBeAdded = minObjects - size;
                     for (int i = 0; i < sizeToBeAdded; i++) {
                         pool.add(createObject());
                     }
