@@ -1,4 +1,4 @@
-package CreationalPatterns.Adapter;
+package StructuralPatterns.Adapter;
 
 public class BankDetails {
     private String bankName;

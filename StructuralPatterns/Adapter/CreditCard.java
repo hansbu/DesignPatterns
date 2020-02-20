@@ -1,6 +1,4 @@
-package CreationalPatterns.Adapter;
-
-import java.io.IOException;
+package StructuralPatterns.Adapter;
 
 public interface CreditCard {
     void giveBankDetails();

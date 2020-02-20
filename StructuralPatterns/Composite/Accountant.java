@@ -1,11 +1,11 @@
-package CreationalPatterns.Composite;
+package StructuralPatterns.Composite;
 
-public class Cashier implements Employee {
+public class Accountant implements Employee {
     private int id;
     private String name;
     private double salary;
 
-    public Cashier(int id, String name, double salary) {
+    public Accountant(int id, String name, double salary){
         this.id = id;
         this.name = name;
         this.salary = salary;
@@ -29,19 +29,17 @@ public class Cashier implements Employee {
     @Override
     public void print() {
         System.out.println("ID: " + id);
-        System.out.println("Job title: Cashier");
+        System.out.println("Job title: Accountant");
         System.out.println("Name: " + name);
         System.out.println("Salary: " + salary);
     }
 
     @Override
     public void add(Employee employee) {
-
     }
 
     @Override
     public void remove(Employee employee) {
-
     }
 
     @Override

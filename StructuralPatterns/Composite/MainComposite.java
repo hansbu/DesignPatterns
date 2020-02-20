@@ -1,4 +1,4 @@
-package CreationalPatterns.Composite;
+package StructuralPatterns.Composite;
 
 public class MainComposite {
     public static void main(String[] args){

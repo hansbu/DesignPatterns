@@ -1,7 +1,6 @@
-package CreationalPatterns.Adapter;
+package StructuralPatterns.Adapter;
 
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class BankCustomer extends BankDetails implements CreditCard {

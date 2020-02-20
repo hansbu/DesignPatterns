@@ -1,4 +1,4 @@
-package CreationalPatterns.Composite;
+package StructuralPatterns.Composite;
 
 public interface Employee {
     int getId();

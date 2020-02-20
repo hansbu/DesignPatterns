@@ -1,6 +1,4 @@
-package CreationalPatterns.Adapter;
-
-import java.io.IOException;
+package StructuralPatterns.Adapter;
 
 public class MainAdapter {
     public static void main(String[] args) {
