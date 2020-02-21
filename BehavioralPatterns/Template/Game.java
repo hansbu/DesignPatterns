@@ -1,4 +1,4 @@
-package StructuralPatterns.Template;
+package BehavioralPatterns.Template;
 
 public abstract class Game {
     public abstract void initialize();

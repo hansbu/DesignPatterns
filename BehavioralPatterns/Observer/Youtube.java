@@ -1,4 +1,6 @@
-package StructuralPatterns.Observer;
+
+package BehavioralPatterns.Observer;
+
 
 public class Youtube {
 

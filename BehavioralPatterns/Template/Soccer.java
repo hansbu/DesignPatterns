@@ -1,4 +1,4 @@
-package StructuralPatterns.Template;
+package BehavioralPatterns.Template;
 
 public class Soccer extends Game {
     @Override

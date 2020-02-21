@@ -1,4 +1,4 @@
-package StructuralPatterns.Strategy;
+package BehavioralPatterns.Strategy;
 
 public class Multiplication implements Strategy {
     @Override

@@ -1,4 +1,4 @@
-package StructuralPatterns.Observer;
+package BehavioralPatterns.Observer;
 
 public class ObserverPatternDemo {
     public static void main(String[] args) {
